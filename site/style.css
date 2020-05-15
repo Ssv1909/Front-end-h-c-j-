@@ -103,6 +103,9 @@
 			.two-md-12{
 				width: 100%;
 			} 
+			.col3{
+				width: 97.5%;
+			}
 		}
 		@media (min-width: 768px) and (max-width: 991px){
 			.three-sm-1,.three-sm-2,.three-sm-3,.three-sm-4,.three-sm-5,.three-sm-6,.three-sm-7,.three-sm-8,.three-sm-9,.three-sm-10,.three-sm-11,.three-sm-12{
@@ -144,10 +147,7 @@
 				} 
 			.three-sm-12{
 				width: 100%;
-			}	
-			.col3{
-				width: 97.5%;
-			}	
+			}		
 		}
 		@media (max-width: 767px){
 			.four-xs-1,.four-xs-2,.four-xs-3,.four-xs-4,.four-xs-5,.four-xs-6,.four-xs-7,.four-xs-8,.four-xs-9,.four-xs-10,.four-xs-11,.four-xs-12{
@@ -207,7 +207,7 @@
 			text-align: center;
 			line-height: 25px;
 			height: 30px;
-			width: 40%;
+			width: 120px;
 			border-left: 2px solid black;
 			border-bottom: 2px solid black;
 			font-size: 125%;
